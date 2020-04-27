@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.vmutyala.microservice.order.kafka.OrderKafkaTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 21.195 s - in com.vmutyala.microservice.order.kafka.OrderKafkaTest

@@ -1,0 +1,32 @@
+{
+   "id":1,
+   "customer":{
+      "customerId":5,
+      "name":"Venkat",
+      "firstname":"Mutyala",
+      "email":"mutyala.venkat@gmail.com"
+   },
+   "updated":1587199593448,
+   "shippingAddress":{
+      "street":"PLOT No 61,Boudh nagar colony,Suchitra Circle",
+      "zip":"500055",
+      "city":"Hyderabad"
+   },
+   "billingAddress":{
+      "street":"PLOT No 61,Boudh nagar colony,Suchitra Circle",
+      "zip":"500055",
+      "city":"Hyderabad"
+   },
+   "orderLine":[
+      {
+         "count":2,
+         "item":{
+            "itemId":1,
+            "name":"Computer",
+            "price":442.0
+         }
+      }
+   ],
+   "orderStatus":"New",
+   "orderType":"Computer"
+ }

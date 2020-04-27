@@ -1,0 +1,17 @@
+com\vmutyala\microservice\order\logic\OrderLine.class
+com\vmutyala\microservice\order\logic\OrderRepository.class
+com\vmutyala\microservice\order\logic\SpringRestDataConfig.class
+com\vmutyala\microservice\order\customer\CustomerFormatter.class
+com\vmutyala\microservice\order\logic\OrderService.class
+com\vmutyala\microservice\order\logic\Address.class
+com\vmutyala\microservice\order\customer\Customer.class
+com\vmutyala\microservice\order\logic\Order.class
+com\vmutyala\microservice\order\item\Item.class
+com\vmutyala\microservice\order\logic\OrderController.class
+com\vmutyala\microservice\order\customer\CustomerTestDataGenerator.class
+com\vmutyala\microservice\order\item\ItemRepository.class
+com\vmutyala\microservice\order\item\ItemTestDataGenerator.class
+com\vmutyala\microservice\order\item\ItemFormatter.class
+com\vmutyala\microservice\order\customer\CustomerRepository.class
+com\vmutyala\microservice\order\logic\SpringRestDataConfig$1.class
+com\vmutyala\microservice\order\OrderApp.class

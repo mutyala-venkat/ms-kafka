@@ -1,0 +1,4 @@
+com\vmutyala\microservice\processing\ShippingServiceTest.class
+com\vmutyala\microservice\processing\ShippingTestApp.class
+com\vmutyala\microservice\processing\ShippingWebIntegrationTest.class
+com\vmutyala\microservice\processing\ShipmentKafkaTest.class
