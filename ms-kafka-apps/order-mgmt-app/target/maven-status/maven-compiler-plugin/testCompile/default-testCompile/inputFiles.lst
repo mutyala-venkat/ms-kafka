@@ -1,6 +1,6 @@
-C:\Users\589000\Desktop\D\eclipse-workspace\ms-kafka-apps\order-mgmt-app\src\test\java\com\vmutyala\microservice\order\logic\OrderWebIntegrationTest.java
-C:\Users\589000\Desktop\D\eclipse-workspace\ms-kafka-apps\order-mgmt-app\src\test\java\com\vmutyala\microservice\order\kafka\KafkaListenerBean.java
-C:\Users\589000\Desktop\D\eclipse-workspace\ms-kafka-apps\order-mgmt-app\src\test\java\com\vmutyala\microservice\order\logic\OrderServiceTest.java
-C:\Users\589000\Desktop\D\eclipse-workspace\ms-kafka-apps\order-mgmt-app\src\test\java\com\vmutyala\microservice\order\OrderTestDataGenerator.java
-C:\Users\589000\Desktop\D\eclipse-workspace\ms-kafka-apps\order-mgmt-app\src\test\java\com\vmutyala\microservice\order\OrderTestApp.java
-C:\Users\589000\Desktop\D\eclipse-workspace\ms-kafka-apps\order-mgmt-app\src\test\java\com\vmutyala\microservice\order\kafka\OrderKafkaTest.java
+C:\Users\589000\git\repository\ms-kafka-apps\order-mgmt-app\src\test\java\com\vmutyala\microservice\order\kafka\KafkaListenerBean.java
+C:\Users\589000\git\repository\ms-kafka-apps\order-mgmt-app\src\test\java\com\vmutyala\microservice\order\OrderTestDataGenerator.java
+C:\Users\589000\git\repository\ms-kafka-apps\order-mgmt-app\src\test\java\com\vmutyala\microservice\order\logic\OrderServiceTest.java
+C:\Users\589000\git\repository\ms-kafka-apps\order-mgmt-app\src\test\java\com\vmutyala\microservice\order\logic\OrderWebIntegrationTest.java
+C:\Users\589000\git\repository\ms-kafka-apps\order-mgmt-app\src\test\java\com\vmutyala\microservice\order\kafka\OrderKafkaTest.java
+C:\Users\589000\git\repository\ms-kafka-apps\order-mgmt-app\src\test\java\com\vmutyala\microservice\order\OrderTestApp.java
